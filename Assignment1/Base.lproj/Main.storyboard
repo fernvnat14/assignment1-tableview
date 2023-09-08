@@ -74,7 +74,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="tableView" destination="tWo-lE-D4V" id="4nD-vo-DL4"/>
+                        <outlet property="tableView" destination="tWo-lE-D4V" id="ckP-fZ-m7Z"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
